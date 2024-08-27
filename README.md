@@ -22,3 +22,5 @@ Scikit-learn (Sklearn): Offers a comprehensive suite of libraries for data prepr
 XGBoost: Implements the eXtreme Gradient Boosting algorithm, renowned for achieving high accuracy in predictions.
 Imbalanced-learn (Imblearn): Addresses data imbalance issues with specialized functions, ensuring more reliable model performance.
 These libraries will form the foundation of our Parkinson's disease prediction model, enabling us to extract insights and make accurate predictions.
+
+The machine learning model is around 75% to 80% accurate. The disease for which there are no diagnostics methods machine learning models are able to predict whether the person has Parkinson’s disease or not.
