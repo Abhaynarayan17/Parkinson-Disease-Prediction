@@ -1,6 +1,13 @@
 # Parkinson-Disease-Prediction
 Parkinson's disease is a degenerative neurological disorder that impairs the nervous system and the bodily functions regulated by it. The symptoms of this condition can be subtle and may not be immediately apparent. However, characteristic signs such as muscle rigidity, tremors, and slowed movement may indicate the presence of Parkinson's disease.
-Predicting Parkinson's Disease Using Machine Learning in Python
+
+#Predicting Parkinson's Disease Using Machine Learning in Python
+
+#Objective: Develop a machine learning model to predict the likelihood of Parkinson's disease in patients based on their medical characteristics and symptoms.
+
+#Approach: Utilize a dataset of patient features and symptoms to train and evaluate a machine learning model, leveraging libraries such as Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost, and Imbalanced-learn to analyze and predict Parkinson's disease.
+
+#Goal: Create an accurate and reliable prediction model to aid in early diagnosis and treatment of Parkinson's disease, improving patient outcomes and quality of life.
 
 Importing Essential Libraries and Dataset
 
